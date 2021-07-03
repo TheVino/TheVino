@@ -1,16 +1,15 @@
 ### Hi there, I'm Vino👋
 
-
-<div>
-<img align="left" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" height="255"/>
-</div>
-
 <div>
   <a href="https://github.com/ellen2121">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TheVino&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVino&&layout=compact&hide=shell&theme=jolly"/>
 </div>
 
+<div>
+<img align="left" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" height="255"/>
+</div>
+  
 ---
 
 ![](https://github.com/TheVino/TheVino/blob/output/github-contribution-grid-snake.svg) 
