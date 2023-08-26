@@ -15,11 +15,19 @@
 ![](https://github.com/TheVino/TheVino/blob/output/github-contribution-grid-snake.svg) 
 
 <div>
+</div>
+
+⚡ Fun fact: Built a keylogger `(experimental and educational warning purposes)` with mail sending and local host access system, but Windows detected as a malware and **permanently deleted** before I uploaded on git.
+
+<div>
+</div>
+
+<div>
   <a href="https://www.linkedin.com/in/vinicius-l-55660594/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/_thevino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-- ⚡ Fun fact: Built a keylogger `(experimental and educational warning purposes)` with mail sending and local host access system, but Windows detected as a malware and **permanently deleted** before I uploaded on git.
+⚡ Fun fact: Built a keylogger `(experimental and educational warning purposes)` with mail sending and local host access system, but Windows detected as a malware and **permanently deleted** before I uploaded on git.
 
 
 <!--
