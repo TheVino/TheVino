@@ -19,6 +19,8 @@
   <a href="https://www.instagram.com/_thevino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+- ⚡ Fun fact: Built a keylogger `(experimental and educational warning purposes)` with mail sending and local host access system, but Windows detected as a malware and **permanently deleted** before I uploaded on git.
+
 
 <!--
 **TheVino/TheVino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
