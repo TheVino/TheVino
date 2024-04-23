@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Vinicius Lopes (aka Vino)
 I am an Electrical Engineer, working in the technology market since 2015 with pre and post sales, development and quality. Training, events and presentations, account management and project development are part of this evolution in the market. 
 I am also a mentor for students who want to enter the technology market, sharing experiences, studies and financial education.
-
+<!---
 Below are a few more things about me:
 - 🧠 AI & IoT Enthusiast
 - ⚡ Electrical Engineer - Computer Emphasis
@@ -10,7 +10,8 @@ Below are a few more things about me:
 - 👨‍💼 Customer account management
 - 🧩 Software and circuit analysis for product validation
 - 📚 Knowledge of Office, Python, C ++, JavaScript/ HTML
-
+--->
+![](https://imgur.com/dmTzZ6e.png)
 
 ## 👨‍💻 Expertise
 <p> Working as Python Freelancer now, developing programs and automations, with or without a graphical interface, in order to facilitate repetitive tasks in an intuitive way.s. </p>
