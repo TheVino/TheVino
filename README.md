@@ -35,20 +35,20 @@ If interested, you can check my expertise on end page Socials.
 
 
 <div>
-<img align="left" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" height="313"/>
+<img align="left" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" height="463"/>
 </div>
 
   
 <div>
   <a href="https://github.com/TheVino">
   <img height="163em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TheVino&show_icons=true&theme=ambient_gradient&include_all_commits=true&rank_icon=github&ring_color=2A2163&title_color=BFE3BC&text_color=E6CB73&icon_color=E073E6&count_private=true"/>
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVino&langs_count=5&layout=compact&title_color=BFE3BC&text_color=F2F0C2&icon_color=E073E6&count_private=true&theme=ambient_gradient"/>
+  <img height="182em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVino&langs_count=10&layout=compact&title_color=BFE3BC&text_color=F2F0C2&icon_color=E073E6&count_private=true&theme=ambient_gradient"/>
   
 </div>
 
 <div>
   <a href="https://github.com/TheVino/VideoDownloader">
-  <img height="105em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheVino&repo=VideoDownloader&title_color=BFE3BC&text_color=F2F0C2&icon_color=E073E6&theme=ambient_gradient"/>
+  <img height="117em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheVino&repo=VideoDownloader&title_color=BFE3BC&text_color=F2F0C2&icon_color=E073E6&theme=ambient_gradient"/>
 </div>
 
 
@@ -56,6 +56,7 @@ If interested, you can check my expertise on end page Socials.
 
 <div> 
 </div>
+
 
 ![](https://github.com/TheVino/TheVino/blob/output/github-contribution-grid-snake.svg) 
 
