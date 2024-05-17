@@ -37,11 +37,10 @@ If interested, you can check my expertise on end page Socials.
 <div>
 <img align="left" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" height="463"/>
 </div>
-
   
 <div>
   <a href="https://github.com/TheVino">
-  <img height="163em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TheVino&show_icons=true&theme=ambient_gradient&include_all_commits=true&rank_icon=github&ring_color=2A2163&title_color=BFE3BC&text_color=E6CB73&icon_color=E073E6&count_private=true"/>
+  <img height="163em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TheVino&show_icons=true&theme=ambient_gradient&rank_icon=github&ring_color=2A2163&title_color=BFE3BC&text_color=E6CB73&icon_color=E073E6&count_private=true"/>
   <img height="182em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVino&langs_count=10&layout=compact&title_color=BFE3BC&text_color=F2F0C2&icon_color=E073E6&count_private=true&theme=ambient_gradient"/>
   
 </div>
